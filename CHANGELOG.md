@@ -11,6 +11,10 @@
 
 * * *
 
+### 2015-5-14 Release v0.5.6
+
++ Add Float64 method to redis.Reply, courtesy of @viblo
+
 ### 2015-5-09 Release v0.5.5
 
 + Major refactoring of encoding to be significantly faster and to incur fewer
